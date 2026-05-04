@@ -5,53 +5,47 @@
 
   <br />
 
-  <!-- 💎 THE FANCY COLORED CONTACT BUTTONS (HIGH-RELIABILITY ASSETS) -->
-  <p align="center">
-    <a href="mailto:eslimose0@gmail.com">
-      <img src="https://img.icons8.com/color/100/000000/gmail-new.png" width="55" height="55" alt="gmail" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/esli.mose">
-      <img src="https://img.icons8.com/color/100/000000/instagram-new.png" width="55" height="55" alt="instagram" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://wa.me/254722796984">
-      <img src="https://img.icons8.com/color/100/000000/whatsapp--v1.png" width="55" height="55" alt="whatsapp" />
-    </a>
-  </p>
-  <p align="center">
-    <sub><b><font color="#D0312D">EMAIL</font></b></sub>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub><b><font color="#FF4500">INSTA</font></b></sub>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub><b><font color="#D0312D">CHAT</font></b></sub>
-  </p>
-
-</div>
-
-<br />
-
-<!-- ⚡ THE REFINED QUICK PROFILE -->
-<div align="center">
+  <!-- ⚡ THE REFINED QUICK PROFILE (NOW FIRST) -->
   <table width="100%" border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="60"/><br/>
-        <b><font color="#FF4500" size="5">THE GOAL</font></b><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="80"/><br/>
+        <b><font color="#FF4500" size="5">THE MISSION</font></b><br/>
         <code>NODE.JS & PYTHON ARCH</code>
       </td>
       <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" width="60"/><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" width="80"/><br/>
         <b><font color="#D0312D" size="5">THE LIFE</font></b><br/>
         <code>PRO B-BALL PLAYER</code>
       </td>
       <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="60"/><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="80"/><br/>
         <b><font color="#FF4500" size="5">THE CHAT</font></b><br/>
         <code>UI/UX & JAVA SYSTEMS</code>
       </td>
     </tr>
   </table>
+
+  <br />
+
+  <!-- 💎 THE HORIZONTAL SOCIALS (FIXED ASSETS) -->
+  <p align="center">
+    <a href="mailto:eslimose0@gmail.com" style="margin-right: 20px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50" alt="gmail" />
+    </a>
+    <a href="https://instagram.com/esli.mose" style="margin-right: 20px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" height="50" alt="instagram" />
+    </a>
+    <a href="https://wa.me/254722796984">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50" height="50" alt="whatsapp" />
+    </a>
+  </p>
+  <p align="center">
+    <font color="#D0312D"><b>EMAIL</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <font color="#FF4500"><b>INSTA</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <font color="#D0312D"><b>CHAT</b></font>
+  </p>
+
 </div>
 
 <br />
