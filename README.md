@@ -1,44 +1,44 @@
 <div align="center">
 
-  <!-- 🔥 THE SHOUTING NEON HEADER -->
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=160&section=header&text=ESLI%20MOSE&fontSize=80&fontAlignY=50&animation=pumping&fontColor=D0312D&stroke=FF4500&strokeWidth=2" width="100%" alt="Esli Mose" />
+  <!-- 🔥 THE SHOUTING HEADER (FIXED RENDER) -->
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=180&section=header&text=ESLI%20MOSE&fontSize=80&fontAlignY=50&animation=pumping&fontColor=D0312D&stroke=FF4500&strokeWidth=2" width="100%" alt="Esli Mose" />
 
   <br />
 
   <!-- 📡 THE HORIZONTAL SOCIAL HUB (BRAND COLORS) -->
   <p align="center">
     <a href="mailto:eslimose0@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
     </a>
     &nbsp;
     <a href="https://instagram.com/esli.mose">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
     </a>
     &nbsp;
     <a href="https://wa.me/254722796984">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
     </a>
   </p>
 
   <br />
 
-  <!-- 🔳 CYBER-GRID PROFILE (GUARANTEED ICONS) -->
+  <!-- 🔳 SYSTEM STATUS GRID (CLEAN & BOLD) -->
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" width="33%">
-        <img src="https://skillicons.dev/icons?i=py&theme=dark" width="50" /><br/>
-        <b><font color="#FF4500" size="4">THE MISSION</font></b><br/>
-        <code>NODE.JS & PYTHON</code>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="80"/><br/>
+        <b><font color="#FF4500" size="5">THE MISSION</font></b><br/>
+        <code>NODE.JS & PYTHON ARCH</code>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/basketball.png" width="60" /><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" width="80"/><br/>
         <b><font color="#D0312D" size="5">THE LIFE</font></b><br/>
         <code>PRO B-BALL PLAYER</code>
       </td>
       <td align="center" width="33%">
-        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" /><br/>
-        <b><font color="#FF4500" size="4">THE CHAT</font></b><br/>
-        <code>UI/UX SYSTEMS</code>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="80"/><br/>
+        <b><font color="#FF4500" size="5">THE CHAT</font></b><br/>
+        <code>UI/UX & JAVA SYSTEMS</code>
       </td>
     </tr>
   </table>
@@ -56,14 +56,10 @@
 
 <br />
 
-<!-- 📊 DATA ANALYTICS (FIXED RENDER) -->
+<!-- 📊 DATA ANALYTICS -->
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=eslimose17&show_icons=true&theme=dark&bg_color=000000&title_color=D0312D&text_color=ffffff&icon_color=FF4500&hide_border=false" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslimose17&layout=compact&theme=dark&bg_color=000000&title_color=FF4500&text_color=ffffff&hide_border=false" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=eslimose17&show_icons=true&theme=dark&bg_color=000000&title_color=D0312D&text_color=ffffff&icon_color=FF4500&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslimose17&layout=compact&theme=dark&bg_color=000000&title_color=FF4500&text_color=ffffff&hide_border=false" width="38%" />
 </div>
 
 <br />
