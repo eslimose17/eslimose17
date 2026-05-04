@@ -5,54 +5,50 @@
 
   <br />
 
-  <!-- 💎 THE FANCY COLORED CONTACT BUTTONS -->
-  <table align="center" border="0">
-    <tr>
-      <td align="center">
-        <a href="mailto:eslimose0@gmail.com">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail_color.png" width="50" height="50" alt="gmail" />
-          <br /><sub><b><font color="#D0312D" size="4">EMAIL</font></b></sub>
-        </a>
-      </td>
-      <td width="50"></td>
-      <td align="center">
-        <a href="https://instagram.com/esli.mose">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram_color.png" width="50" height="50" alt="instagram" />
-          <br /><sub><b><font color="#FF4500" size="4">INSTA</font></b></sub>
-        </a>
-      </td>
-      <td width="50"></td>
-      <td align="center">
-        <a href="https://wa.me/254722796984">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Whatsapp_color.png" width="50" height="50" alt="whatsapp" />
-          <br /><sub><b><font color="#D0312D" size="4">CHAT</font></b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- 💎 THE FANCY COLORED CONTACT BUTTONS (HIGH-RELIABILITY ASSETS) -->
+  <p align="center">
+    <a href="mailto:eslimose0@gmail.com">
+      <img src="https://img.icons8.com/color/100/000000/gmail-new.png" width="55" height="55" alt="gmail" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/esli.mose">
+      <img src="https://img.icons8.com/color/100/000000/instagram-new.png" width="55" height="55" alt="instagram" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://wa.me/254722796984">
+      <img src="https://img.icons8.com/color/100/000000/whatsapp--v1.png" width="55" height="55" alt="whatsapp" />
+    </a>
+  </p>
+  <p align="center">
+    <sub><b><font color="#D0312D">EMAIL</font></b></sub>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <sub><b><font color="#FF4500">INSTA</font></b></sub>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <sub><b><font color="#D0312D">CHAT</font></b></sub>
+  </p>
 
 </div>
 
 <br />
 
-<!-- ⚡ THE REFINED QUICK PROFILE GRID -->
+<!-- ⚡ THE REFINED QUICK PROFILE -->
 <div align="center">
-  <table width="100%" border="0">
+  <table width="100%" border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td width="33%" align="center">
-        <img src="https://img.icons8.com/neon/96/rocket.png" width="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="60"/><br/>
         <b><font color="#FF4500" size="5">THE GOAL</font></b><br/>
-        <code>Mastering Node.js & Python Architecture</code>
+        <code>NODE.JS & PYTHON ARCH</code>
       </td>
       <td width="33%" align="center">
-        <img src="https://img.icons8.com/neon/96/basketball.png" width="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" width="60"/><br/>
         <b><font color="#D0312D" size="5">THE LIFE</font></b><br/>
-        <code>Pro Basketball Competitor</code>
+        <code>PRO B-BALL PLAYER</code>
       </td>
       <td width="33%" align="center">
-        <img src="https://img.icons8.com/neon/96/voice.png" width="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="60"/><br/>
         <b><font color="#FF4500" size="5">THE CHAT</font></b><br/>
-        <code>UI/UX & Java Systems</code>
+        <code>UI/UX & JAVA SYSTEMS</code>
       </td>
     </tr>
   </table>
