@@ -1,35 +1,65 @@
-<h1 align="center">Hi 👋, I'm Esli Mose</h1>
-<h3 align="center">💻 Aspiring developer passionate about learning and building projects.</h3>
+<div align="center">
+  <!-- Aesthetic Animated Header -->
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=150&section=header&text=Esli%20Mose&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslimose17" alt="eslimose17" /></a> </p>
+  <p align="center">
+    <strong>Software Developer</strong> • <strong>Pro Basketball Player</strong>
+  </p>
 
-- 🌱 I’m currently learning **Python deeper and node js**
-- 💬 Ask me about **python, html & css, java**
-- 📫 How to reach me **eslimose0@gmail.com**
-- ⚡ Fun fact **I'm actually a pro basketball player**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/esli.mose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esli.mose" height="30" width="40" /></a>
-<a href="https://wa.me/254722796984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-#### 🚀 Primary Stack (Backend & Web)
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> | <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a> | <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a> | <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a> | <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a> |
-
-#### ⚙️ Software & Mobile Development
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a> | <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a> | <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a> | <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a> |
+  <!-- Modern Subtle Buttons -->
+  <a href="mailto:eslimose0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D0312D" />
+  </a>
+  <a href="https://instagram.com/esli.mose">
+    <img src="https://img.shields.io/badge/Instagram-D0312D?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/254722796984">
+    <img src="https://img.shields.io/badge/WhatsApp-FF4500?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ At a Glance
+
+- 🚀 **Current Focus:** Deep diving into **Node.js** and advanced **Python** patterns.
+- 🏀 **Fun Fact:** When I'm not debugging, I'm competing as a **pro basketball player**.
+- 💬 **Talk To Me About:** Python architecture, Java, or modern UI/UX.
+
+---
+
+### 🛠️ Technical Stack
+
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=eslimose17&show_icons=true&locale=en&layout=compact" alt="eslimose17 languages" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api?username=eslimose17&show_icons=true&locale=en" alt="eslimose17 stats" height="165" />
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,django,html,css,cpp,java,android,react&theme=dark" />
 </p>
+
+<!-- Subtle Animated Activity Graph in Red/Orange -->
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslimose17&bg_color=000000&color=FF4500&line=D0312D&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 📊 Performance Metrics
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <!-- GitHub Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=eslimose17&show_icons=true&theme=dark&bg_color=000000&title_color=D0312D&text_color=ffffff&icon_color=FF4500&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <!-- Top Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslimose17&layout=compact&theme=dark&bg_color=000000&title_color=D0312D&text_color=ffffff&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslimose17&theme=dark&background=000000&fire=FF4500&ring=D0312D&sideNums=ffffff&stroke=000000&hide_border=true" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/docs/img/threedog.gif" width="200" />
+</div>
