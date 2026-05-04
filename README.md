@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Esli Mose</h1>
 <h3 align="center">💻 Aspiring developer passionate about learning and building projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslimose17&label=Profile%20views&color=0e75b6&style=flat" alt="eslimose17" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslimose17" alt="eslimose17" /></a> </p>
 
 - 🌱 I’m currently learning **Python deeper and node js**
-
 - 💬 Ask me about **python, html & css, java**
-
 - 📫 How to reach me **eslimose0@gmail.com**
-
 - ⚡ Fun fact **I'm actually a pro basketball player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/esli.mose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esli.mose" height="30" width="40" /></a>
+<a href="https://wa.me/254722796984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +27,9 @@
 | <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a> | <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a> | <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a> | <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a> |
 
 ---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=eslimose17&show_icons=true&locale=en&layout=compact" alt="eslimose17 languages" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=eslimose17&show_icons=true&locale=en" alt="eslimose17 stats" height="165" />
+</p>
