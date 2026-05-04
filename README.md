@@ -5,24 +5,24 @@
 
   <br />
 
-  <!-- 🔗 FLOATING SOCIAL ICONS (NO BOXES, CLEANER LOOK) -->
+  <!-- 🔗 BALANCED SOCIAL HUB (FIXED WHATSAPP) -->
   <p align="center">
     <a href="mailto:eslimose0@gmail.com">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="45" />
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/esli.mose">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="45" />
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/254722796984">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WhatsApp.svg" width="45" />
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" />
     </a>
   </p>
 
   <br />
 
-  <!-- 💎 THE VIBE GRID (MODERN ASSETS) -->
+  <!-- 💎 THE VIBE GRID -->
   <table width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td align="center" width="33%">
